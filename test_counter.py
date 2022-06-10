@@ -18,3 +18,4 @@ async def counter_test(dut):
         dut.clk.value = 1
         dut._log.info("dout is %s", dut.dout.value)
         await Timer(5, units="ns")
+

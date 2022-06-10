@@ -28,3 +28,4 @@ module counter #(
 endmodule
 
 `default_nettype wire
+
