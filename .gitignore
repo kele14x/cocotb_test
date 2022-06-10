@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+
+# Verilog
+*.vcd
+
+# Cocotb
+sim_build/
+results.xml
